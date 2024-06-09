@@ -6,6 +6,7 @@ terraform {
     }
   }
 }
+#this is a unabla line
 provider "aws" {
     region = "us-east-2"
   
